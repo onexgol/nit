@@ -8,9 +8,8 @@ NIT was conceived as a text editor for **Linux**, and does not guarantee full i
 
 ######
 
-```bash
 1.  install python
-2.  git clone https://github.com/onexgol/nit
-3.  cd NIT
+2.  'git clone https://github.com/onexgol/nit'
+3.  'cd NIT'
 4.  python (or python3) nit.py
-5.  profit!```
+5.  profit!
