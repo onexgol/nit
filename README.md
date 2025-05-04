@@ -1,4 +1,1 @@
-### nit
-## Nit - Free Text Editor for C++
-Expected release date June 2025. 
-NIT was conceived as a text editor for Linux, and does not guarantee full installation on other operating systems.
+**Nit - Free Text Editor for C++**Expected release date **June 2025**.&nbsp;NIT was conceived as a text editor for **Linux**, and does not guarantee full installation on other OS.**Instalation**###### install pythongit clone&nbsp;https://github.com/onexgol/nitcd nitpython (or python3) nit.ptprofit!
